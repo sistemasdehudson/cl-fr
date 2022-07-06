@@ -1,8 +1,8 @@
 {
-    'name': 'sdeh',
+    'name': 'fr',
     'version': '13.0.0.0',
     'category': 'Tools',
-    'summary': "Proyecto sdeh",
+    'summary': "Proyecto fr",
     'author': 'Sdeh',
     'depends': [
         'base',
@@ -30,7 +30,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemasdehudson/cl-sdeh',
+        'https://github.com/sistemasdehudson/cl-fr',
         'https://github.com/regaby/odoo-custom.git',
         ##'https://github.com/regaby/l10n_ar_fe_qr',
         ##'https://github.com/regaby/l10n_ar_fe_qr ctmil/l10n_ar_fe_qr',
